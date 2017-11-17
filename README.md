@@ -1,4 +1,4 @@
-# Readme - Irma Mini-App Demo
+# Readme
 
 ---
 
