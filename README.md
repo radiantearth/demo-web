@@ -1,6 +1,9 @@
 # Readme
 
 ---
+## Description
+
+This repository contains source codes for buidling a web based demo from Radiant.Earth's platform similar to our demos website (https://demos.radiant.earth/). The demo in this repository uses the NDVI change tool to detect changes in vegetation cover after Hurricane Maria. 
 
 ## Getting Started
 
@@ -8,7 +11,7 @@ To get up and running, run `npm install` in your CLI in the project directory.
 
 Then run `yarn` and `yarn build`.
 
-Then run `grunt`. Your browser should automatically open `localhost:3001`.
+Then run `grunt`. Your browser should automatically open `localhost:3000`.
 
 That's it. You are good to go.
 
@@ -61,3 +64,10 @@ Display the elapsed execution time of grunt tasks
 
 #### grunt-html-build
 *Consider*
+
+
+## Credits
+
+This demo is built using on an initial mini-app development from Raster Foundry team (https://github.com/raster-foundry).
+
+Imagery used in the examples are provided by Planet (https://www.planet.com/).
