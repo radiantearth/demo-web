@@ -7,6 +7,8 @@ This repository contains source codes for buidling a web based demo from Radiant
 
 ## Getting Started
 
+You need Python 2.x to build and run this demo. 
+
 To get up and running, run `npm install` in your CLI in the project directory.
 
 Then run `yarn` and `yarn build`.
